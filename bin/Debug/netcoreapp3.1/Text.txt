@@ -1,0 +1,79 @@
+*******************Padre Principal*******************
+ Nombre: Juan
+ Apellido: Toribio
+ Cedula: 40543
+ Telefono: 333
+ Edad: 23
+ Nacionalidad: Republica Dominicana
+ Direccion: La villa panamericana
+ 
+*******************Alumno Principal*******************
+ Id: 1
+ Nombre: keury
+ Apellido: Lendof
+ Edad: 18
+ Curso: 6to bachiller
+ Tanda: Matutino
+ Nombre del Padre: Juan
+ Apellido del Padre: Toribio
+ Telefono del Padre: 333
+ 
+*******************Padre Clon*******************
+ Nombre: Francisco
+ Apellido: Ramos
+ Cedula: 2343
+ Telefono: 674564
+ Edad: 30
+ Nacionalidad: Haiti
+ Direccion: Puerto Principe
+ 
+*******************Alumno Clon*******************
+ Id: 2
+ Nombre: alberto
+ Apellido: diaz
+ Edad: 20
+ Curso: 3ro bachiller
+ Tanda: Vespertino
+ Nombre del Padre: Francisco
+ Apellido del Padre: Ramos
+ Telefono del Padre: 674564
+ 
+*******************Padre Clon 2*******************
+ Nombre: Guillermo
+ Apellido: Marte
+ Cedula: 35353
+ Telefono: 3454
+ Edad: 45
+ Nacionalidad: Dominican
+ Direccion: Puerto Plata
+ 
+*******************Alumno Clon 2*******************
+ Id: 3
+ Nombre: fernando
+ Apellido: perez
+ Edad: 30
+ Curso: 5to bachiller
+ Tanda: Domingos
+ Nombre del Padre: Guillermo
+ Apellido del Padre: Marte
+ Telefono del Padre: 3454
+ 
+*******************Padre Clon 3*******************
+ Nombre: Enemencio
+ Apellido: Peralta
+ Cedula: 9323
+ Telefono: 674564
+ Edad: 45
+ Nacionalidad: Dominicano
+ Direccion: Ocoa
+ 
+*******************Alumno Clon 3*******************
+ Id: 4
+ Nombre: Wendys
+ Apellido: Ortiz
+ Edad: 40
+ Curso: 6to bachiller
+ Tanda: Noche
+ Nombre del Padre: Enemencio
+ Apellido del Padre: Peralta
+ Telefono del Padre: 674564

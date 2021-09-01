@@ -1,0 +1,13 @@
+C:\Users\lendo\source\repos\ProtoType\ProtoType\bin\Debug\netcoreapp3.1\ProtoType.exe
+C:\Users\lendo\source\repos\ProtoType\ProtoType\bin\Debug\netcoreapp3.1\ProtoType.deps.json
+C:\Users\lendo\source\repos\ProtoType\ProtoType\bin\Debug\netcoreapp3.1\ProtoType.runtimeconfig.json
+C:\Users\lendo\source\repos\ProtoType\ProtoType\bin\Debug\netcoreapp3.1\ProtoType.runtimeconfig.dev.json
+C:\Users\lendo\source\repos\ProtoType\ProtoType\bin\Debug\netcoreapp3.1\ProtoType.dll
+C:\Users\lendo\source\repos\ProtoType\ProtoType\bin\Debug\netcoreapp3.1\ProtoType.pdb
+C:\Users\lendo\source\repos\ProtoType\ProtoType\obj\Debug\netcoreapp3.1\ProtoType.csprojAssemblyReference.cache
+C:\Users\lendo\source\repos\ProtoType\ProtoType\obj\Debug\netcoreapp3.1\ProtoType.AssemblyInfoInputs.cache
+C:\Users\lendo\source\repos\ProtoType\ProtoType\obj\Debug\netcoreapp3.1\ProtoType.AssemblyInfo.cs
+C:\Users\lendo\source\repos\ProtoType\ProtoType\obj\Debug\netcoreapp3.1\ProtoType.csproj.CoreCompileInputs.cache
+C:\Users\lendo\source\repos\ProtoType\ProtoType\obj\Debug\netcoreapp3.1\ProtoType.dll
+C:\Users\lendo\source\repos\ProtoType\ProtoType\obj\Debug\netcoreapp3.1\ProtoType.pdb
+C:\Users\lendo\source\repos\ProtoType\ProtoType\obj\Debug\netcoreapp3.1\ProtoType.genruntimeconfig.cache
